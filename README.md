@@ -1,5 +1,5 @@
 # Hack-without-port-forwarding
-Hack any were without Router (hack by sim hotspot)
+## Hack any were without Router (hack by sim hotspot)
 
 in this Tutorial i m going to show you how to forward a port
 from a mobile hotspot or usb thetering.SIM providers
@@ -13,9 +13,12 @@ First step you must download and setup ngrok from this link:
 ngrok: https://ngrok.com
 
 Step 2: Start tunneling from your custom port
-in your command line type : ./ngrok tcp 4444
+in your command line type :
+```
+./ngrok tcp 4444
+```
 note : 4444 is my custom port 
 so you see Forwarding part 
 in forwarding part first part is your wan ip & wan port and in secound part you see lan ip & lan port
 
-Good Luck
+## Good Luck (Mohammad Amin Ghaemi)
